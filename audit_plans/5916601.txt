@@ -1,0 +1,12 @@
+Date: 01 August, 2017
+Standard: ISO 9001
+Audit Type: CA
+Language: French
+Audit Team: Peter, Mccolum, Steve
+Audit Representatives: Paul Vagrant - IS09001
+Company Name: Google
+Audit Scope: Establishing quality management system for internal use
+Processes/Functions: IT Customer Support, Product Management
+Auditors: John Wacom, Miles Peterson
+Activities/Clauses: B5, B1, Lunch
+Timeframe: 10.00-16.00

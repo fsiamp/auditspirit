@@ -1,0 +1,12 @@
+Date: 01.5.04
+Standard: ISO 27001
+Audit Type: CA
+Language: Engilsh
+Audit Team: LA- Tiger, Auditor-Philip
+Audit Representatives: Mr.Peter - ISO27001
+Company Name: ABC Company
+Audit Scope: ISMS for...
+Processes/Functions: Top Manager, IT Service
+Auditors: Tiger, Philip
+Activities-Clauses: Open Meeting, 5, A5, A6
+Timeframe: 9.00-13.00
